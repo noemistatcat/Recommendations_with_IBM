@@ -6,7 +6,6 @@
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
 	3. [Executing Program](#executing)
-	4. [Additional Material](#material)
 3. [Authors](#authors)
 4. [Acknowledgement](#acknowledgement)
 
